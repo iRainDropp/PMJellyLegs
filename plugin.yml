@@ -1,0 +1,7 @@
+---
+name: PMJellyLegs
+version: 0.0.1
+main: iRainDrop\PMJellyLegs\Main
+api: 4.3.2
+src-namespace-prefix: iRainDrop\PMJellyLegs
+...
